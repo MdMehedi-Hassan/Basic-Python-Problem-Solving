@@ -1,6 +1,6 @@
 # Basic-Python-Problem-Solving
 
-This is my first Repository.
+This is based on AI lab.
 <br>
 Author- Mehedi.
 <br>
