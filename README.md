@@ -1,6 +1,6 @@
 # Basic-Python-Problem-Solving
 
-This is based on AI lab.
+This is based on Artificial Intelligence and Expert System Lab.
 <br>
 Author- Mehedi.
 <br>
